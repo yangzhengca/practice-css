@@ -1,0 +1,91 @@
+/* #main {
+    color: red;
+  }
+  
+  div {
+    color: blue;
+  }
+
+
+  .red {
+    color: red;
+  }
+  
+  div {
+    color: blue;
+  } */
+
+/* 
+  div#main { color: red; }
+
+
+  p.blue { color: blue; } */
+
+  /* .red{ color: red; } */
+
+
+  /* div, p { color: red; } */
+/* 
+  * {
+    color: white;
+  } */
+
+
+  /* a[href="#"] { color: pink; }
+
+
+div[name="main"] { color: yellow; } */
+
+/* a:link {
+    color: red;
+  }
+  
+  a:active {
+    color: pink;
+  }
+  
+  a:hover {
+    color: gray;
+  }
+  
+  a:visited {
+    color: green;
+  } */
+
+
+  /* div a {
+    color: red;
+  } */
+ 
+ 
+ 
+  /* div > p {
+    color: red;
+  } */
+
+/* 
+  div::first-line {
+    color: red;
+  }
+  
+  p::first-letter {
+    color: blue;
+  }
+  
+  span::before {
+    content: '1';
+  }
+  
+  span::after {
+    content: '2';
+  } */
+
+
+  /* p + div {
+    color: red;
+  } */
+
+
+  p ~ div {
+    color: red;
+  }
