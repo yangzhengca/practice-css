@@ -1,0 +1,39 @@
+ul{
+    list-style-type: circle;
+    list-style-position: inside;
+    /* border: indigo solid;
+    background-color: lightblue; */
+}
+
+
+
+
+ol{
+    list-style: lower-roman outside;
+}
+
+table{
+    border-spacing: 20px;
+    /* border: mediumblue solid;  */
+}
+/* td{
+    border: mediumblue solid;
+} */
+
+
+input[type="text"]{
+    border: 1px solid greenyellow;
+    color:gray;
+}
+
+/* input.error{
+    color: red;
+    border-color: red;
+    outline: none;
+} */
+
+input[type="text"].error{
+    color: red;
+    border-color: red;
+    outline: none;
+}

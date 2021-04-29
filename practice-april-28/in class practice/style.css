@@ -1,0 +1,23 @@
+.firstSpan{
+    border:1px solid green;
+    margin: 5px;
+}
+.secondSpan{
+    border:1px solid green;
+    margin: 5px;
+    display: block;
+}
+.thirdSpan{
+    border:1px solid green;
+    margin: 5px;
+}
+.fourthSpan{
+    border:1px solid green;
+    margin: 5px;
+    /* display: none; */
+    visibility: hidden;
+}
+p{
+    background-image: url("black_cat.png");
+    background-repeat: repeat;
+}
